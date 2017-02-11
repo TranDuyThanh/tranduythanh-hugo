@@ -67,7 +67,7 @@ var foo = function (bar) {
 console.log(foo(5));
 ```
 
-Sample table
+## Table
 
 |       Statistics       |    Computer Science   |                                                     Mearning                                                     |
 |----------------------|---------------------|----------------------------------------------------------------------------------------------------------------|
@@ -83,6 +83,8 @@ Sample table
 | Bayesian inference     | Bayesian inference    | Statistical methods for using data to update subjective beliefs                                                  |
 | Frequentist inference  | ---                   | Statistical methods for producing point estimates and confidence intervals with guarantees on frequency behavior |
 | Large deviation bounds | PAC learning          | Uniform bounds on probability of errors                                                                          |
+
+# Math
 
 Sample inline math $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$. Good job
 
