@@ -180,3 +180,4 @@ $$p(x)=\frac{1}{\sigma\sqrt{2\pi}}e^{-\cfrac{1}{2}\left(\cfrac{x-\mu}{\sigma}\ri
 ### Tham khảo:
 - [http://courses.ncssm.edu/math/Talks/PDFS/normal.pdf](http://courses.ncssm.edu/math/Talks/PDFS/normal.pdf)
 - [https://www.quora.com/How-did-humans-derive-the-normal-distribution](https://www.quora.com/How-did-humans-derive-the-normal-distribution)
+- [https://en.wikipedia.org/wiki/Normal_distribution](https://en.wikipedia.org/wiki/Normal_distribution)
