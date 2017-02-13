@@ -2,8 +2,9 @@ baseurl = "https://tranduythanh.github.io/"
 title = "From zero to AI"
 author = "Trần Duy Thanh"
 canonifyurls = true
-languagecode = "en"
+languageCode = "en-us"
 theme = "black-and-light"
+googleAnalytics = "UA-91857744-1"
 
 pygmentsstyle       = "monokai"
 pygmentscodefences  = true
